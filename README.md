@@ -1,9 +1,7 @@
-@ -1,328 +1,599 @@
-<<<<<<< HEAD
+
 # study-resources
 
 Initial commit
-
 \# Study Resource Website
 
 
