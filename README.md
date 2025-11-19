@@ -143,77 +143,43 @@ This project is meant to grow over time with more content and resources.
   - P(A or B) = P(A) + P(B) - P(A and B)  
   - P(A and B) = P(A) × P(B) (if independent)
 
----
-### **Law**
-Explore the legal systems of different countries, key legal principles, and international law.
 
-#### **United States**
-- Constitutional Law, Criminal Law, Civil Law, Federal and State systems
-- Key resources:
-  - [Legal Information Institute (LII)](https://www.law.cornell.edu/) – US law, codes, and case summaries
-  - [Oyez](https://www.oyez.org/) – Supreme Court cases and audio recordings
-  - [Harvard Law Review](https://harvardlawreview.org/) – Legal research articles
-
-#### **United Kingdom**
-- Common law system, constitutional principles, criminal law, civil law
-- Key resources:
-  - [UK Legislation](https://www.legislation.gov.uk/) – Official acts and statutes
-  - [The Supreme Court UK](https://www.supremecourt.uk/) – Landmark judgments
-  - [Oxford Journal of Legal Studies](https://academic.oup.com/ojls) – Research articles
-
-#### **India**
-- Constitutional law, criminal code, civil procedure, personal law
-- Key resources:
-  - [India Code](https://www.indiacode.nic.in/) – Full acts and statutes
-  - [Supreme Court of India](https://main.sci.gov.in/) – Important judgments
-  - [Indian Journal of Legal Research](https://ijlr.in/) – Academic research
-
-#### **Nepal**
-- Constitutional law, civil code, criminal code, human rights, local governance
-- Key resources:
-  - [Nepal Law Commission](https://www.lawcommission.gov.np/) – Full acts, laws, and regulations
-  - [Supreme Court of Nepal](http://supremecourt.gov.np/) – Key judgments
-  - [Nepal Legal Forum](https://www.nplf.org.np/) – Articles and legal resources
-  - [ResearchGate – Nepal Law](https://www.researchgate.net/) – Legal research papers on Nepalese law
-- Tips: Focus on **Constitution of Nepal 2015**, Civil and Criminal Codes, and landmark cases.
-
-#### **European Union**
-- EU treaties, regulations, directives, EU Court of Justice decisions
-- Key resources:
-  - [EUR-Lex](https://eur-lex.europa.eu/) – Access to EU law and treaties
-  - [European Court of Justice](https://curia.europa.eu/) – Cases and judgments
-  - [European Journal of Legal Studies](https://ejls.eui.eu/) – Academic articles
-
-#### **Canada**
-- Constitutional law, criminal code, civil law (Quebec), human rights
-- Key resources:
-  - [CanLII](https://www.canlii.org/) – Canadian laws and court decisions
-  - [Supreme Court of Canada](https://www.scc-csc.ca/) – Landmark rulings
-  - [Canadian Journal of Law & Society](https://www.cambridge.org/core/journals/canadian-journal-of-law-and-society) – Research articles
- 
-  - # 📚 Study Resource Cheat Sheet
-
-Welcome! This table contains **all subjects, subtopics, and key resources** for quick reference.
 
 ---
 
-| 🏷️ Subject | 🔹 Subtopics / Focus | 🔗 Key Resources |
-|------------|--------------------|----------------|
-| **💰 Economics** | Supply & Demand, Market Structures, GDP, Inflation, Unemployment, Fiscal & Monetary Policy, Economic Data Analysis, Forecasting, Financial Analytics, Big Data in Economics | [World Bank Data](https://data.worldbank.org/), [Kaggle Economics Datasets](https://www.kaggle.com/datasets?search=economics), [Investopedia](https://www.investopedia.com/economics-4689743), [OECD Data](https://data.oecd.org/) |
-| **📊 Data Science** | Python, Pandas, Data Visualization, Machine Learning, EDA, Statistical Analysis, Visualization, ML Models | [Kaggle Learn](https://www.kaggle.com/learn), [Coursera](https://www.coursera.org/browse/data-science), [Analytics Vidhya](https://www.analyticsvidhya.com/) |
-| **➗ Mathematics** | Algebra, Calculus, Statistics, Probability, Linear Algebra, Discrete Math | [Khan Academy](https://www.khanacademy.org/math), [Paul’s Online Math Notes](https://tutorial.math.lamar.edu/) |
-| **🗣️ Languages** | Italian, Spanish, German, Polish, Finnish, Vocabulary, Grammar, Conversational Practice | [Duolingo](https://www.duolingo.com/), [BBC Languages](https://www.bbc.co.uk/languages) |
-| **⚛️ Physics** | Mechanics, Thermodynamics, Electricity & Magnetism, Modern Physics | [Khan Academy](https://www.khanacademy.org/science/physics), [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/) |
-| **💻 Computer Science** | Programming, Algorithms, Data Structures, Networking, Python, Web Dev | [freeCodeCamp](https://www.freecodecamp.org/), [GeeksforGeeks](https://www.geeksforgeeks.org/) |
-| **🌍 History & Geography** | World History, Civilizations, Maps, Political Systems | [History.com](https://www.history.com/), [National Geographic Education](https://www.nationalgeographic.org/education/) |
-| **🎨 Art & Literature** | Literature Summaries, Famous Authors, Art History, Visual Arts | [Project Gutenberg](https://www.gutenberg.org/), [Google Arts & Culture](https://artsandculture.google.com/) |
-| **⚖️ Law – Nepal** | Constitutional Law, Civil & Criminal Codes, Human Rights | [Nepal Law Commission](https://www.lawcommission.gov.np/), [Supreme Court Nepal](http://supremecourt.gov.np/), [Nepal Legal Forum](https://www.nplf.org.np/), [ResearchGate – Nepal Law](https://www.researchgate.net/) |
-| **⚖️ Law – USA** | Constitutional, Criminal, Civil Law | [Legal Information Institute](https://www.law.cornell.edu/), [Oyez](https://www.oyez.org/) |
-| **⚖️ Law – UK** | Common Law, Criminal Law, Constitutional | [UK Legislation](https://www.legislation.gov.uk/), [Supreme Court UK](https://www.supremecourt.uk/) |
-| **⚖️ Law – India** | Constitutional, Criminal, Civil | [India Code](https://www.indiacode.nic.in/), [Supreme Court India](https://main.sci.gov.in/) |
-| **⚖️ Law – EU** | Treaties, Regulations, Directives | [EUR-Lex](https://eur-lex.europa.eu/), [European Court of Justice](https://curia.europa.eu/) |
-| **⚖️ Law – Canada** | Constitutional, Criminal, Civil | [CanLII](https://www.canlii.org/), [Supreme Court Canada](https://www.scc-csc.ca/) |
-| **⚖️ Law – Australia** | Common Law, Constitutional, Criminal & Civil | [AustLII](http://www.austlii.edu.au/), [High Court of Australia](http://www.hcourt.gov.au/) |
-| **⚖️ Law – International** | Treaties, Conventions, Human Rights | [UN Treaty Collection](https://treaties.un.org/), [International Court of Justice](https://www.icj-cij.org/), [HeinOnline](https://home.heinonline.org/) |
 
----
+
+\### \*\*Data Science (Python Basics)\*\*
+
+```python
+
+\# Import libraries
+
+import pandas as pd
+
+import matplotlib.pyplot as plt
+
+
+
+\# Load CSV
+
+data = pd.read\_csv('data.csv')
+
+
+
+\# View first 5 rows
+
+print(data.head())
+
+
+
+\# Plotting example
+
+data\['column\_name'].hist()
+
+plt.show()
+
+
+
+
+
